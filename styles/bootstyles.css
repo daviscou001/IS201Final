@@ -1,0 +1,32 @@
+
+.common {
+    text-align: center;
+    position: static;
+}
+.background {
+    background-color: rgb(154, 180, 188, 0.6);
+}
+a {
+    color: green;
+}
+.header {
+    height: 200px;
+}
+.footer {
+    height: 100px;
+    font-style: italic;
+    line-height: 100px;
+}
+.mainbody {
+    margin: 50px;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+
+.green {
+    color: green;
+}
